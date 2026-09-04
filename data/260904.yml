@@ -7,7 +7,7 @@ about:
   head: f8584b7
   archived: false
   latestVersion: v0.2.0
-  collectedAt: 2026-09-04T19:31:20Z
+  collectedAt: 2026-09-04T21:00:36Z
 timeline:
   created: 2024-03-21
   lastCommit: 2026-09-03
@@ -81,5 +81,33 @@ total:
   openIssue: 0
   commit: 65
 ---
+path: /home/runner/.x-repo/github.com/cobanov/websum
+collectedAt: 2026-09-04T21:00:37Z
+loc:
+  Python:
+    code: 697
+    comments: 0
+    blanks: 200
+    files: 18
+  Toml:
+    code: 138
+    comments: 0
+    blanks: 15
+    files: 1
+  Dockerfile:
+    code: 20
+    comments: 0
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 191
+    blanks: 71
+    files: 4
+total:
+  code: 911
+  comments: 192
+  blanks: 302
+  files: 24
 ---
 
