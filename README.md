@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/websum> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:27:27Z._
+_Last regenerated: 2026-09-09T18:39:44Z._
