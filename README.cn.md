@@ -4,7 +4,7 @@
 
 Summarize web pages and YouTube videos with pluggable LLM backends (Ollama, OpenAI). CLI, library, and Gradio UI.
 
-![websum](https://repo.x-cmd.io/websum.svg)
+![websum](https://repo.x-cmd.io/websum.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,6 @@ x install websum
 
 - **最新版本**: `v0.2.0` (2026-05-14)
 - **最近提交**: 2026-09-03
-- **发布时间**: 2026-05-14T13:03:41Z
 
 ## 流行度
 
@@ -60,4 +59,4 @@ websum 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:25:38Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:06:43Z._
