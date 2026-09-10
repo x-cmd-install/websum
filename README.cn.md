@@ -12,6 +12,17 @@ Summarize web pages and YouTube videos with pluggable LLM backends (Ollama, Open
 x install websum
 ```
 
+## 代码规模
+
+合计: **855** 行代码（覆盖前 5 种语言、共 **24** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 697 | 0 | 200 | 18 |
+| Toml | 138 | 0 | 15 | 1 |
+| Dockerfile | 20 | 0 | 9 | 1 |
+| Markdown | 0 | 191 | 71 | 4 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/cobanov/websum>
@@ -36,19 +47,11 @@ x install websum
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 2 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 2 |
 | 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 0 | 2 |
+| last180d | 2026-03-14 | 1 | 11 | 2 | 0 | 0 | 13 |
 | 360d | 2025-09-15 | 1 | 11 | 2 | 0 | 0 | 13 |
-
-## 代码规模
-
-合计: **855** 行代码（覆盖前 5 种语言、共 **24** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 697 | 0 | 200 | 18 |
-| Toml | 138 | 0 | 15 | 1 |
-| Dockerfile | 20 | 0 | 9 | 1 |
-| Markdown | 0 | 191 | 71 | 4 |
+| last720d | 2024-09-20 | 1 | 11 | 2 | 0 | 0 | 14 |
 
 ## 改进这些数据
 
@@ -59,4 +62,4 @@ websum 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:06:43Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:11:16Z._
